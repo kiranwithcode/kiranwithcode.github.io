@@ -19815,7 +19815,7 @@
         b = n(8688),
         w = n(3401),
         x = n(5190),
-        k = n.p + "static/media/kiran.png",
+        k = n.p + "static/media/kiran1.png",
         S = function () {
           return (0, o.jsx)(o.Fragment, {
             children: (0, o.jsx)("section", {
@@ -19870,7 +19870,7 @@
                                 }),
                               }),
                               " ",
-                              "curious to explore different industry standard tech stacks and environments. Skilled in the",
+                              "curious to explore different industry standard",
                               " ",
                               (0, o.jsx)("i", {
                                 children: (0, o.jsx)("span", {
@@ -19879,24 +19879,24 @@
                                 }),
                               }),
                               " ",
-                              "and willing to start a career with an organization that provides an opportunity to improve skills and knowledge gained as well as to grow along with the organization\u2019s goal.",
+                              "tech stacks and environments. Skilled in the and willing to start a career with an organization that provides an opportunity to improve skills and knowledge gained as well as to grow along with the organization\u2019s goal.",
                             ],
                           }),
-                          (0, o.jsxs)("h4", {
-                            style: { "text-align": "justify" },
-                            children: [
-                              "I developed passion for coding a few years back when I printed my first",
-                              " ",
-                              (0, o.jsx)("i", {
-                                children: (0, o.jsx)("span", {
-                                  className: "different",
-                                  children: '"Hello world"',
-                                }),
-                              }),
-                              " ",
-                              "that hello world just hits different. Since then aesthetically functional websites has just been my thing.",
-                            ],
-                          }),
+                          // (0, o.jsxs)("h4", {
+                          //   style: { "text-align": "justify" },
+                          //   children: [
+                          //     "I developed passion for coding a few years back when I printed my first",
+                          //     " ",
+                          //     (0, o.jsx)("i", {
+                          //       children: (0, o.jsx)("span", {
+                          //         className: "different",
+                          //         children: '"Hello world"',
+                          //       }),
+                          //     }),
+                          //     " ",
+                          //     "that hello world just hits different. Since then aesthetically functional websites has just been my thing.",
+                          //   ],
+                          // }),
                           (0, o.jsx)("h4", {
                             children:
                               "Apart from coding, some other activities that I love to do!",
@@ -19919,7 +19919,7 @@
                                 className: "icons",
                                 children: (0, o.jsx)(x.Z, {}),
                               }),
-                              "Coding & Social-Media",
+                              "Watching Movies & Social-Media",
                             ],
                           }),
                         ],
@@ -24456,7 +24456,7 @@
                           (0, o.jsxs)("p", {
                             style: { "text-align": "justify" },
                             children: [
-                              "Harvest or Getharvest is a web-based time tracking, Project Management, Invoicing, and cost-tracking tool. which is used by more than 70000+ companies.",
+                              "Harvest or Getharvest is a web-based time tracking, Project Management, Invoicing, and cost-tracking tool.",
                               " ",
                             ],
                           }),
@@ -24658,7 +24658,7 @@
                           (0, o.jsx)("p", {
                             style: { "text-align": "justify" },
                             children:
-                              "Netflix is a streaming service that offers a wide variety of award-winning, movies,anime,documentaries",
+                              "Netflix is a streaming service that offers a wide variety of movies,anime,documentaries etc.",
                           }),
                           (0, o.jsxs)("div", {
                             children: [

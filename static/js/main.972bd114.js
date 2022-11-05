@@ -19870,7 +19870,7 @@
                                 }),
                               }),
                               " ",
-                              "curious to explore different industry standard",
+                              "curious to industry standard",
                               " ",
                               (0, o.jsx)("i", {
                                 children: (0, o.jsx)("span", {
@@ -24658,7 +24658,7 @@
                           (0, o.jsx)("p", {
                             style: { "text-align": "justify" },
                             children:
-                              "Netflix is a streaming service that offers a wide variety of movies,anime,documentaries etc.",
+                              "Netflix is a streaming service that offers of movies,anime,documentaries, Sci-Fi, Horror and Unlimited movies, TV shows and more",
                           }),
                           (0, o.jsxs)("div", {
                             children: [
